@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  date: MyString
+  match: MyString
+  total: 1.5
+  comment: MyString
+  outcome: MyString
+  win: 1.5
+  profit: 1.5
+  withdrawn: 1.5
+
+two:
+  user_id: 1
+  date: MyString
+  match: MyString
+  total: 1.5
+  comment: MyString
+  outcome: MyString
+  win: 1.5
+  profit: 1.5
+  withdrawn: 1.5
